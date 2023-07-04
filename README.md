@@ -2,7 +2,7 @@
 
 # Austin Margarone
 
-I capture and develop Matterport Virtual Tours as well as Web applications. 
+I capture and develop Matterport Virtual Tours as well as Web Applications. 
 
 <br>
 
