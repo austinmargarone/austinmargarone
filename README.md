@@ -31,7 +31,6 @@ I capture and develop Matterport Virtual Tours as well as Web Applications.
 
 ![austinmargarone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinmargarone&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-
 <br>
 
 ## Virtual Tours:
