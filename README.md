@@ -29,7 +29,6 @@ I capture and develop Matterport Virtual Tours as well as Web Applications.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-<br>
 ![austinmargarone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinmargarone&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
