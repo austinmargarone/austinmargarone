@@ -2,7 +2,7 @@
 
 I am the managing-member of Flower City Virtual Tours, located in the United States. My experience is in capturing Matterport Virtual Tours and developing React Web Applications.
 
-I've worked as a core team member on multiple applications during my time at JSM Mastery. Our teamed developed the following applications.
+I've worked as a core team member on multiple applications during my time at JSM Mastery. Our team developed the following applications.
 Jobit - an open-source web development job listing platform
 Morent - a car rental platorm 
 
