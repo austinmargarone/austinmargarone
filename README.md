@@ -1,5 +1,3 @@
-![Logo](logo.png "Logo")
-
 # Austin Margarone
 
 I am the managing-member of Flower City Virtual Tours, located in the United States. My experience is in capturing Matterport Virtual Tours and developing React Web Applications.
@@ -39,6 +37,8 @@ Morent - a car rental platorm
 <br>
 
 ## Virtual Tours:
+![Logo](logo.png "Logo")
+
 ![Matterport](Matterport.png) 
 
 <br>
