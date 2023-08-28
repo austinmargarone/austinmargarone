@@ -1,9 +1,10 @@
 # Austin Margarone
 
 I am a Full-stack Developer who focuses mainly on building React and Next.js web applications. My experience comes from years of practice and industry leading education. 
-I've worked as a core team member on multiple applications during my time at JSM Mastery. Our team developed the following.
-Jobit - an open-source web development job listing platform
-Morent - a car rental platorm 
+I've worked as a core team member on multiple applications during my time at JSM Mastery. 
+Our team developed the following:
+1. Jobit - an open-source web development job listing platform
+2. Morent - a car rental platorm 
 
 I'm also very passionate about Web3 & Blockchain technology. I enjoy developing smart contracts with Solidty and learning about new technologies. 
 
