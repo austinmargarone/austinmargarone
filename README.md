@@ -7,8 +7,6 @@ Our team developed the following:
 1. Jobit - an open-source web development job listing platform
 2. Morent - a car rental platorm 
 
-I'm also very passionate about Web3 & Blockchain technology. I enjoy developing smart contracts with Solidty and learning about new technologies. 
-
 <br>
 
 ## Tech:
