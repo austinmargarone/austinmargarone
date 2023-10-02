@@ -1,6 +1,6 @@
 # Austin Margarone
 
-I am a Full-stack Developer who focuses mainly on building React and Next.js web applications. My experience comes from years of practice and industry leading education. 
+I am a Software Engineer who focuses mainly on building React and Next.js web applications. My experience comes from years of practice and industry leading education. 
 I've worked as a core team member on multiple applications during my time at JSM Mastery. 
 <br>
 Our team developed the following:
