@@ -36,16 +36,10 @@ Our team developed the following:
 
 <br>
 
-## Virtual Tours:
-![Logo](logo.png "Logo")
-
-![Matterport](Matterport.png) 
-
-<br>
-
 ## Contact Info:
 
-https://flowercityvirtualtours.com/contact-us/
+[https://flowercityvirtualtours.com/contact-us/
+](https://margarone.vercel.app/contact)
 
 <br>
 
