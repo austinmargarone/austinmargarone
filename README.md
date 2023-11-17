@@ -38,8 +38,7 @@ Our team developed the following:
 
 ## Contact Info:
 
-[https://flowercityvirtualtours.com/contact-us/
-](https://margarone.vercel.app/contact)
+https://margarone.vercel.app/contact
 
 <br>
 
