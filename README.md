@@ -2,6 +2,11 @@
 
 I am a Software Engineer who focuses mainly on building React and Next.js web applications. My experience comes from years of work and education. 
 
+## Contact Info:
+
+https://margarone.vercel.app/contact
+
+<br>
 
 ## Tech:
 
@@ -27,12 +32,6 @@ I am a Software Engineer who focuses mainly on building React and Next.js web ap
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ![austinmargarone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinmargarone&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-
-## Contact Info:
-
-https://margarone.vercel.app/contact
 
 <br>
 
