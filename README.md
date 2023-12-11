@@ -1,6 +1,6 @@
 # Austin Margarone
 
-I am a Software Engineer who focuses mainly on building React and Next.js web applications. My experience comes from years of work and education. 
+I am a seasoned Software Engineer specializing in the development of React and Next.js web applications. My expertise is honed through a combination of extensive professional experience and comprehensive education.
 
 ## Contact Info:
 
