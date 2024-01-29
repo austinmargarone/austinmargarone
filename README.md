@@ -1,10 +1,10 @@
 # Austin Margarone
 
-I am a seasoned Software Engineer specializing in the development of React and Next.js web applications. My expertise is honed through a combination of extensive professional experience and comprehensive education.
+I am a seasoned Software Engineer specializing in the development of React and Next.js web applications. My expertise is honed through a combination of extensive experience and comprehensive education.
 
 ## Contact Info:
 
-https://margarone.vercel.app/contact
+https://austinmargarone.com/contact
 
 <br>
 
